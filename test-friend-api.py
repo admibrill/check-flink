@@ -16,10 +16,10 @@ user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 # 变量与模板
 api_key = os.getenv("LIJIANGAPI_TOKEN")
 blog_secret = os.getenv("BLOG_SECRET")
-json_url = 'https://blognext-end.yaria.top/get/flink/flinks'
+json_url = 'https://blognend.qyadbr.top/get/flink/flinks'
 api_url_template = "https://api.76.al/api/web/query?key={}&url={}"
 proxy_url_template = "https://lius.me/{}"
-backend_url = "https://blognext-end.yaria.top"
+backend_url = "https://blogend.qyadbr.top"
 
 # 队列用于 API 请求
 api_request_queue = Queue()
